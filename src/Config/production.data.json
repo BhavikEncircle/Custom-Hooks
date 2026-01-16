@@ -1,0 +1,5 @@
+{
+    "ENVIRONMENT":  "production",
+    "APP_NAME":  "customHooks",
+    "API_BASE_URL":  "https://api.example.com"
+}
